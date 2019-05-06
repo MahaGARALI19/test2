@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4bf06936-92e1-4b16-b006-f1545813f715" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/app/controllers/pages_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/pages_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/salut.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/salut.html.erb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -64,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/app/controllers/pages_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -266,12 +265,12 @@
       <option name="presentableId" value="Default" />
       <updated>1556894343134</updated>
       <workItem from="1556894346246" duration="1965000" />
-      <workItem from="1557128674123" duration="2749000" />
+      <workItem from="1557128674123" duration="2757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4714000" />
+    <option name="totallyTimeSpent" value="4722000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,7 +350,7 @@
     <entry file="file://$PROJECT_DIR$/app/controllers/pages_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>

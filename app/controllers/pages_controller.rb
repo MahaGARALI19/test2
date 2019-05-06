@@ -1,4 +1,4 @@
-class PagesController < ApplicationController
+class PagesContrller < ApplicationController
 
   def salut
 
