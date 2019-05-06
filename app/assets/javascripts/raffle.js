@@ -1,6 +1,5 @@
-@RaffleCtrl = ($scope) ->
-  $scope.entries = [
+$scope.entries = [
     {name: "Larry"},
     {name: "Moe"},
     {name: "Curly"}
-  ]
+]
